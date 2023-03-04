@@ -1,0 +1,188 @@
+{
+  "eventID": "oscars2023",
+  "awards": [
+      {
+          "id": "A16",
+          "name": "Best Picture",
+          "awardedOption": {
+              "id": "1"
+          }
+      },
+      
+      {
+          "id": "A1",
+          "name": "Actor in Leading Role",
+          "awardedOption": {
+              "id": "3"
+          }
+      },
+      
+      {
+          "id": "A1",
+          "name": "Actress in Leading Role",
+          "awardedOption": {
+              "id": ""
+          }
+      },
+      
+      {
+          "id": "A8",
+          "name": "Directing",
+          "awardedOption": {
+              "id": ""
+          }
+      },
+      
+      {
+          "id": "A2",
+          "name": "Actor in Supporting Role",
+          "awardedOption": {
+              "id": ""
+          }
+      },
+      
+      {
+          "id": "A4",
+          "name": "Actress in Supporting Role",
+          "awardedOption": {
+              "id": ""
+          }
+      },
+      
+      {
+          "id": "A5",
+          "name": "Animated Feature Film",
+          "awardedOption": {
+              "id": ""
+          }
+      },
+      
+      {
+          "id": "A6",
+          "name": "Cinematography",
+          "awardedOption": {
+              "id": ""
+          }
+      },
+      
+      {
+          "id": "A7",
+          "name": "Costume Design",
+          "awardedOption": {
+              "id": ""
+          }
+      },
+      
+      {
+          "id": "A9",
+          "name": "Documentary Feature Film",
+          "awardedOption": {
+              "id": ""
+          }
+      },
+      
+      {
+          "id": "A10",
+          "name": "Documentary Short Film",
+          "awardedOption": {
+              "id": ""
+          }
+      },
+      
+      {
+          "id": "A11",
+          "name": "Film Editing",
+          "awardedOption": {
+              "id": ""
+          }
+      },
+      
+      {
+          "id": "A12",
+          "name": "International Feature Film",
+          "awardedOption": {
+              "id": ""
+          }
+      },
+      
+      {
+          "id": "A13",
+          "name": "Makeup and Hairstyling",
+          "awardedOption": {
+              "id": ""
+          }
+      },
+      
+      {
+          "id": "A14",
+          "name": "Music (Original Score)",
+          "awardedOption": {
+              "id": ""
+          }
+      },
+      
+      {
+          "id": "A15",
+          "name": "Music (Original Song)",
+          "awardedOption": {
+              "id": ""
+          }
+      },
+      
+      {
+          "id": "A17",
+          "name": "Production Design",
+          "awardedOption": {
+              "id": ""
+          }
+      },
+      
+      {
+          "id": "A18",
+          "name": "Short Film (Animated)",
+          "awardedOption": {
+              "id": ""
+          }
+      },
+      
+      {
+          "id": "A19",
+          "name": "Short Film (Live Action)",
+          "awardedOption": {
+              "id": ""
+          }
+      },
+      
+      {
+          "id": "A20",
+          "name": "Sound",
+          "awardedOption": {
+              "id": ""
+          }
+      },
+      
+      {
+          "id": "A21",
+          "name": "Visual Effects",
+          "awardedOption": {
+              "id": ""
+          }
+      },
+      
+      {
+          "id": "A22",
+          "name": "Writing (Adapted Screenplay)",
+          "awardedOption": {
+              "id": ""
+          }
+      },
+      
+      {
+          "id": "A23",
+          "name": "Writing (Original Screenplay)",
+          "awardedOption": {
+              "id": ""
+          }
+      }
+  ]
+}
