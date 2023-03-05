@@ -5,7 +5,7 @@
           "id": "A16",
           "name": "Best Picture",
           "awardedOption": {
-              "id": "4"
+              "id": "7"
           }
       },
       
@@ -21,7 +21,7 @@
           "id": "A3",
           "name": "Actress in Leading Role",
           "awardedOption": {
-              "id": "1"
+              "id": "5"
           }
       },
       
@@ -29,7 +29,7 @@
           "id": "A8",
           "name": "Directing",
           "awardedOption": {
-              "id": "3"
+              "id": "2"
           }
       },
       
