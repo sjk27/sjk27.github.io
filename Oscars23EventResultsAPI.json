@@ -13,7 +13,7 @@
           "id": "A1",
           "name": "Actor in Leading Role",
           "awardedOption": {
-              "id": "2"
+              "id": "3"
           }
       },
       
@@ -21,7 +21,7 @@
           "id": "A3",
           "name": "Actress in Leading Role",
           "awardedOption": {
-              "id": "3"
+              "id": "4"
           }
       },
       
@@ -181,7 +181,7 @@
           "id": "A23",
           "name": "Writing (Original Screenplay)",
           "awardedOption": {
-              "id": ""
+              "id": "1"
           }
       }
   ]
